@@ -1,0 +1,13 @@
+//commands
+node src/index.js
+node src/index
+node src/.
+node src
+node ./src/index.js
+node ./src/test.js argument1 argument2
+node ./src/quiz.js
+node ./src/outOfOrderEventLoop
+node ./src/eventLoop
+//node src/path-to-file.js
+//node src/path-to-file
+//node ./src/path-to-file
